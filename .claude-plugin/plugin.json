@@ -8,7 +8,11 @@
     "url": "https://helloalfie.ai"
   },
   "homepage": "https://helloalfie.ai/connect",
+  "documentationUrl": "https://helloalfie.ai/claude",
+  "supportUrl": "https://helloalfie.ai/claude#help",
+  "repository": "https://github.com/amaddama/alfie-claude-plugin",
   "privacyPolicyUrl": "https://helloalfie.ai/privacy",
+  "termsOfServiceUrl": "https://helloalfie.ai/terms",
   "icon": ".claude-plugin/icon.png",
   "license": "MIT"
 }
