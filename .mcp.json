@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "alfie": {
+      "type": "http",
+      "url": "https://helloalfie.ai/mcp"
+    }
+  }
+}
