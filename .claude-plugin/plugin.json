@@ -3,7 +3,12 @@
   "displayName": "Alfie",
   "version": "1.0.0",
   "description": "Book, move and cancel Google Calendar meetings by just saying who and when. Alfie finds people's emails, checks when friends and teammates are free, and sends the invite with a Meet link. No scheduling links.",
-  "author": { "name": "Moxi-Kaizen", "url": "https://helloalfie.ai" },
+  "author": {
+    "name": "Moxi-Kaizen",
+    "url": "https://helloalfie.ai"
+  },
   "homepage": "https://helloalfie.ai/connect",
+  "privacyPolicyUrl": "https://helloalfie.ai/privacy",
+  "icon": ".claude-plugin/icon.png",
   "license": "MIT"
 }
